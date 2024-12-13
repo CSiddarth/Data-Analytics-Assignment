@@ -12,21 +12,7 @@ Identify popular dishes and their trends.
 Explore demographic factors influencing user behavior.
 Visualize insights and summarize findings in a report.
 
-**Folder Structure:**
 
-DataAnalyticsAssignment/
-├── Data/
-│   ├── UserDetails.csv          # Raw User Details Dataset
-│   ├── CookingSessions.csv      # Raw Cooking Sessions Dataset
-│   ├── OrderDetails.csv         # Raw Order Details Dataset
-│   ├── MergedDataset.csv        # Final Cleaned and Merged Dataset
-├── Notebooks/
-│   └── analysis.ipynb           # Jupyter notebook for data analysis
-├── Report/
-│   └── Final_Report.pdf         # Final report summarizing findings
-├── Visualizations/
-│   └── plots/                   # Contains generated visualization images
-├── README.md                    # This file
 
 **Datasets**
 
