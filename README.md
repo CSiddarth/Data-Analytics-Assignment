@@ -80,24 +80,24 @@ Run the notebook to generate the merged dataset and visualizations.
 **Key Insights**
 
 - Popular Dishes: Spaghetti, Grilled Chicken, and Caesar Salad are the top 3 ordered dishes.
-- 
+ 
 - Order Conversion: Cooking sessions with higher ratings lead to more completed orders.
 
 **Demographics:**
 
 - Cities like Chicago, Los Angeles, and New York dominate order volumes.
-- 
+ 
 - Users aged 25-35 are the most active group.
-- 
+ 
 - Meal Preferences: Dinner accounts for 50% of all orders.
 
 **Recommendations**
 
 - Offer discounts on high-demand dishes during peak times.
-- 
+ 
 - Target marketing campaigns in major cities and the 25-35 age demographic.
-- 
+ 
 - Expand breakfast offerings to capture the morning market.
-- 
+ 
 - Incentivize feedback for higher session ratings.
 
